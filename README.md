@@ -1,1 +1,2 @@
 # Auth-pipeline-rule
+* A *
