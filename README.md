@@ -10,3 +10,4 @@
     * And changing the role_id in roles array.
 
 What this script will do is checks if the user is a valid user by checking its email endpoint in the if condition, then will assign the mentioned Role to all the User that are valid. And will also check in case of any error and will return the same.
+
